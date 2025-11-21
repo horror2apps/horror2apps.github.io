@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- PAGE PRINCIPALE - URL canonique -->
+    <url>
+        <loc>https://horror2apps.github.io/</loc>
+        <lastmod>2025-11-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- Image optimisée pour Momo Horror Challenge -->
+        <image:image>
+            <image:loc>https://horror2apps.github.io/images/momo-horror-game-challenge-whatsapp.webp</image:loc>
+            <image:title>Momo Horror Challenge - Scary Video Call Simulator</image:title>
+            <image:caption>Momo Horror Challenge - Scary video call interface with Momo character and horror prank features</image:caption>
+            <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+        </image:image>
+    </url>
+    
+    <!-- Page Conditions d'utilisation -->
+    <url>
+        <loc>https://horror2apps.github.io/terms.html</loc>
+        <lastmod>2025-11-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Page Politique de confidentialité -->
+    <url>
+        <loc>https://horror2apps.github.io/privacy.html</loc>
+        <lastmod>2025-11-21</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
