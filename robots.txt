@@ -41,6 +41,7 @@ Allow: /css/
 Allow: /js/
 Allow: /images/
 Allow: /fonts/
+Allow: /structured-data/
 
 # Optimized crawl delay for better indexing speed
 # Crawl-delay: 1  # Commenté pour indexation plus rapide
