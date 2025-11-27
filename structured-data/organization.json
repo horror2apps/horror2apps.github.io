@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Horror2Apps",
+  "url": "https://horror2apps.github.io/",
+  "description": "Horror2Apps - Creator of free HTML5 horror games. Play Momo Challenge Horror Game directly in your browser!",
+  "brand": "Horror2Apps",
+  "founder": "Horror2Apps",
+  "knowsAbout": ["HTML5 Games", "Horror Games", "Construct 2", "Game Development"]
+}

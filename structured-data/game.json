@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "VideoGame",
+  "name": "Momo Challenge Horror Game",
+  "url": "https://horror2apps.github.io/",
+  "description": "Momo Challenge Horror Game - An intense psychological horror experience. Survive Momo's challenges in this terrifying game created with Construct 2. Play for free directly in your browser!",
+  "image": [
+    "https://horror2apps.github.io/images/google-play.webp",
+    "https://horror2apps.github.io/images/momo-horror-game-challenge-whatsapp.webp"
+  ],
+  "genre": ["Horror", "Survival", "Psychological Horror"],
+  "applicationCategory": "Game",
+  "operatingSystem": "Web Browser",
+  "gamePlatform": "HTML5",
+  "author": {
+    "@type": "Organization",
+    "name": "Horror2Apps"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "audience": {
+    "@type": "PeopleAudience",
+    "suggestedMinAge": "16",
+    "suggestedMaxAge": "35"
+  },
+  "contentRating": "PEGI 16",
+  "keywords": "momo challenge, horror game, psychological thriller, free online game, html5 game, construct 2 game, browser game, horror2apps",
+  "publisher": "Horror2Apps",
+  "releaseDate": "2024-01-01",
+  "playMode": "SinglePlayer"
+}
